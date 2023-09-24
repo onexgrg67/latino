@@ -1,7 +1,7 @@
 # Ind. Presente attivo latino
 #
-## _1° coniugazione: āre_
-### (verbo laud-āre)
+## _1° coniugazione: are_
+### (verbo laud-are)
 #
 - #### 1° sing. --- laud-o
 - #### 2° sing. --- laud-as
@@ -28,8 +28,8 @@
 - #### 2° plur. --- leg-ĭtis
 - #### 3° plur. --- leg-unt
 #
-## _3° coniugazione: īre_
-### (verbo aud-īre)
+## _4° coniugazione: ire_
+### (verbo aud-ire)
 - #### 1° sing. --- aud-ĭo
 - #### 2° sing. --- aud-is
 - #### 3° sing. --- aud-it
